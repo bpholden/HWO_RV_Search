@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+astropy
+astroML
+PyAstronomy
+corner
+radvel>=1.6.1
+pathos
+tqdm
